@@ -17,7 +17,8 @@ public class OperadorTernario {
 
         condicionFinal = (promedio >= 6) ? "Aprobado" : "Desaprobado";
         System.out.println("La condición final del alumno es " + condicionFinal + ", El promedio fue: " + promedio);
-
+        System.out.println("Hola Mundo esto es una prueba de modificacion con github");
+        
     }
 
 }
